@@ -1,0 +1,2 @@
+# whitelist
+whitelista do serwera
